@@ -1,0 +1,73 @@
+wilayah,indeks_udara,tutupan_hijau_pct,curah_hujan_mm,suhu_rata_c,kepadatan_jiwa_km2,sampah_kg_per_jiwa,indeks_air,cluster,karakter
+Wilayah-01,76.8,54.0,2744.55,25.64,280.72,0.41,67.79,2,Transisi pesisir-agraris
+Wilayah-02,72.88,34.16,2494.45,29.54,1181.81,0.6,55.98,2,Transisi pesisir-agraris
+Wilayah-03,88.16,81.03,3185.02,23.28,132.33,0.34,87.23,0,Hijau dan sejuk
+Wilayah-04,80.24,52.26,2595.02,27.53,506.01,0.57,67.16,2,Transisi pesisir-agraris
+Wilayah-05,46.3,14.46,2248.37,30.73,4443.86,0.85,52.55,1,Padat dan tertekan
+Wilayah-06,55.8,9.34,2051.08,30.87,5396.82,1.05,49.57,1,Padat dan tertekan
+Wilayah-07,78.41,30.02,2457.82,28.63,820.08,0.5,57.53,2,Transisi pesisir-agraris
+Wilayah-08,86.97,21.94,2542.07,28.49,816.28,0.57,66.1,2,Transisi pesisir-agraris
+Wilayah-09,95.17,71.21,3061.29,24.53,166.61,0.16,82.33,0,Hijau dan sejuk
+Wilayah-10,80.98,29.0,2472.62,29.24,939.63,0.61,59.83,2,Transisi pesisir-agraris
+Wilayah-11,78.69,45.1,2400.75,26.24,513.31,0.36,70.09,2,Transisi pesisir-agraris
+Wilayah-12,80.68,32.66,2275.38,29.25,880.07,0.38,51.87,2,Transisi pesisir-agraris
+Wilayah-13,72.02,30.8,2073.63,29.27,1224.81,0.51,67.16,2,Transisi pesisir-agraris
+Wilayah-14,50.56,8.2,1925.41,31.3,3645.41,1.0,49.66,1,Padat dan tertekan
+Wilayah-15,69.32,28.5,2167.63,29.64,905.46,0.71,60.32,2,Transisi pesisir-agraris
+Wilayah-16,79.08,29.54,2639.8,30.0,989.22,0.7,53.68,2,Transisi pesisir-agraris
+Wilayah-17,72.44,25.27,1955.83,29.88,844.44,0.4,54.89,2,Transisi pesisir-agraris
+Wilayah-18,86.19,63.97,3257.6,27.53,321.36,0.23,71.87,0,Hijau dan sejuk
+Wilayah-19,49.09,9.55,1969.03,31.44,5341.34,0.93,40.75,1,Padat dan tertekan
+Wilayah-20,75.08,27.62,2741.98,29.58,1145.68,0.5,53.71,2,Transisi pesisir-agraris
+Wilayah-21,73.65,42.9,2094.65,30.0,674.27,0.64,64.69,2,Transisi pesisir-agraris
+Wilayah-22,91.84,68.76,3333.82,22.95,94.21,0.16,88.86,0,Hijau dan sejuk
+Wilayah-23,82.8,47.05,2574.31,28.24,478.52,0.37,77.74,2,Transisi pesisir-agraris
+Wilayah-24,87.21,29.28,1993.88,28.68,1312.73,0.72,60.74,2,Transisi pesisir-agraris
+Wilayah-25,86.77,20.25,2076.32,29.89,801.35,0.55,60.86,2,Transisi pesisir-agraris
+Wilayah-26,86.44,28.63,2460.98,28.27,887.82,0.47,53.47,2,Transisi pesisir-agraris
+Wilayah-27,76.0,34.41,1968.4,29.52,778.96,0.52,69.02,2,Transisi pesisir-agraris
+Wilayah-28,97.35,72.76,2991.22,23.23,196.97,0.26,82.58,0,Hijau dan sejuk
+Wilayah-29,79.37,45.62,2769.21,28.99,828.15,0.4,57.87,2,Transisi pesisir-agraris
+Wilayah-30,85.24,22.9,2136.46,28.21,859.33,0.44,58.29,2,Transisi pesisir-agraris
+Wilayah-31,59.87,11.62,1613.3,29.92,7116.32,0.8,40.32,1,Padat dan tertekan
+Wilayah-32,96.53,38.63,2404.26,27.47,674.73,0.32,68.28,2,Transisi pesisir-agraris
+Wilayah-33,84.17,44.99,2465.21,26.1,419.04,0.38,71.63,2,Transisi pesisir-agraris
+Wilayah-34,80.83,35.09,2338.86,29.71,913.29,0.55,56.95,2,Transisi pesisir-agraris
+Wilayah-35,77.42,42.65,2693.34,29.73,709.24,0.44,70.34,2,Transisi pesisir-agraris
+Wilayah-36,80.88,15.79,2531.86,29.77,622.39,0.5,63.85,2,Transisi pesisir-agraris
+Wilayah-37,90.83,73.17,3124.41,23.68,283.0,0.1,60.86,0,Hijau dan sejuk
+Wilayah-38,93.18,71.02,2672.98,23.89,300.91,0.14,92.32,0,Hijau dan sejuk
+Wilayah-39,51.57,7.79,1926.42,31.58,5724.39,1.16,56.24,1,Padat dan tertekan
+Wilayah-40,98.98,77.51,3448.4,23.14,184.66,0.2,92.95,0,Hijau dan sejuk
+Wilayah-41,82.69,26.67,2592.81,29.95,1355.16,0.62,51.0,2,Transisi pesisir-agraris
+Wilayah-42,70.97,24.37,2677.81,29.88,725.27,0.45,62.23,2,Transisi pesisir-agraris
+Wilayah-43,89.32,76.5,3546.59,24.23,50.0,0.27,88.36,0,Hijau dan sejuk
+Wilayah-44,90.08,31.49,2346.31,27.67,244.39,0.52,72.58,2,Transisi pesisir-agraris
+Wilayah-45,48.0,15.26,2235.06,30.94,5410.96,0.98,41.96,1,Padat dan tertekan
+Wilayah-46,50.93,13.53,2219.96,30.16,5087.49,1.13,42.79,1,Padat dan tertekan
+Wilayah-47,83.01,54.76,2502.97,28.26,561.38,0.47,73.88,2,Transisi pesisir-agraris
+Wilayah-48,80.97,31.97,2917.11,26.83,464.02,0.5,58.78,2,Transisi pesisir-agraris
+Wilayah-49,40.79,8.82,2096.72,31.11,5448.65,0.78,31.83,1,Padat dan tertekan
+Wilayah-50,79.64,51.68,2682.51,27.31,548.82,0.42,73.71,2,Transisi pesisir-agraris
+Wilayah-51,50.74,12.79,2180.52,30.56,5669.05,0.92,60.86,1,Padat dan tertekan
+Wilayah-52,66.04,18.92,1929.45,28.1,730.43,0.62,60.01,2,Transisi pesisir-agraris
+Wilayah-53,87.45,58.62,2482.02,28.28,461.98,0.33,65.84,2,Transisi pesisir-agraris
+Wilayah-54,77.56,45.14,2708.93,28.58,270.32,0.43,60.86,2,Transisi pesisir-agraris
+Wilayah-55,77.21,15.18,2532.07,29.14,766.52,0.44,57.42,2,Transisi pesisir-agraris
+Wilayah-56,81.05,50.63,2594.1,28.26,405.44,0.28,77.47,2,Transisi pesisir-agraris
+Wilayah-57,96.46,77.07,3160.66,23.92,316.57,0.4,88.35,0,Hijau dan sejuk
+Wilayah-58,59.53,8.62,2073.28,30.78,5482.52,0.85,36.87,1,Padat dan tertekan
+Wilayah-59,87.53,70.33,3112.04,25.82,257.42,0.18,89.74,0,Hijau dan sejuk
+Wilayah-60,80.58,49.48,2660.98,26.93,588.3,0.31,70.04,2,Transisi pesisir-agraris
+Wilayah-61,53.56,17.73,2020.13,31.15,5148.9,0.93,42.54,1,Padat dan tertekan
+Wilayah-62,46.04,14.66,2238.76,31.02,4942.38,1.0,45.84,1,Padat dan tertekan
+Wilayah-63,39.18,10.66,1562.02,29.9,6427.48,1.06,42.96,1,Padat dan tertekan
+Wilayah-64,60.21,24.2,2905.1,29.76,760.11,0.6,51.07,2,Transisi pesisir-agraris
+Wilayah-65,52.7,11.66,2173.98,31.01,5801.49,0.87,54.28,1,Padat dan tertekan
+Wilayah-66,77.15,40.9,2847.3,27.05,632.5,0.36,80.19,2,Transisi pesisir-agraris
+Wilayah-67,83.29,60.52,2405.94,26.45,391.69,0.44,59.04,2,Transisi pesisir-agraris
+Wilayah-68,48.23,16.59,1473.26,30.33,3682.18,0.85,49.73,1,Padat dan tertekan
+Wilayah-69,90.99,72.73,3261.02,22.29,229.48,0.3,89.93,0,Hijau dan sejuk
+Wilayah-70,93.19,90.28,3173.87,23.13,127.25,0.18,81.78,0,Hijau dan sejuk
+Wilayah-71,89.94,66.89,3178.8,23.9,183.58,0.2,92.5,0,Hijau dan sejuk
+Wilayah-72,77.04,23.43,2437.11,29.61,537.97,0.54,63.83,2,Transisi pesisir-agraris
